@@ -1,19 +1,29 @@
-int add(int a, int b) {
+/* add.c */
+int add(int a, int b)
+{
     return a + b;
 }
 
-int sub(int a, int b) {
+/* sub.c */
+int sub(int a, int b)
+{
     return a - b;
 }
 
-int mul(int a, int b) {
+/* mul.c */
+int mul(int a, int b)
+{
     return a * b;
 }
 
-int div(int a, int b) {
+/* div.c */
+int div(int a, int b)
+{
     return a / b;
 }
 
-int mod(int a, int b) {
+/* mod.c */
+int mod(int a, int b)
+{
     return a % b;
 }
